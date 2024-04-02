@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971338844182",
+    "project_id": "moneymanagement-ceef4",
+    "storage_bucket": "moneymanagement-ceef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971338844182:android:0fdc4f243f8eb28d9a0d37",
+        "android_client_info": {
+          "package_name": "com.example.moneymanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-0-7F-b4RNALuaFe5AqTgh5sD9PRhdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
